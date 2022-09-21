@@ -1,0 +1,28 @@
+*{
+    box-sizing: border box;
+
+}
+
+body {
+ font-family: "copperplate" ;
+ margin: 0;
+}
+
+header {
+    padding: 60px;
+    text-align: center;
+    background: #13293d;
+    color: #fff;
+  }
+
+  nav {
+    display:flex;
+    text-align: center;
+    color:antiquewhite ;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
